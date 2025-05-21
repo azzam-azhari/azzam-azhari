@@ -1,4 +1,4 @@
-![Azzam Azhari](img/cv.png)
+![Azzam Azhari](img/azzam-azhari.png)
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
