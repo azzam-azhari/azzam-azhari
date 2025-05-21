@@ -1,3 +1,5 @@
+![Azzam Azhari](img/cv.png)
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -10,9 +12,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning a Programming<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning a React Programming<br>🎯 Goals: Global Class Software Dev<br>🎲 Fun fact: ...</p>
 
 ###
+
 
 <h2 align="left">I code with</h2>
 
